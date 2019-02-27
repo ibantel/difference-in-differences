@@ -7,12 +7,12 @@ research design and estimate the causal effect of terrorist attack on the outcom
 ## data
 Used data sets: Eurobarometer Data (see below for specification), available from https://www.gesis.org
 
-Wave       Gesis reference dataset
+Wave - Gesis reference dataset
 
-EB 56.2    ZA3627
+56.2 - ZA3627
 
-EB 61.0    ZA4056
+61.0 - ZA4056
 
-EB 84.3    ZA6643
+84.3 - ZA6643
 
-EB 87.3    ZA6863
+87.3 - ZA6863
